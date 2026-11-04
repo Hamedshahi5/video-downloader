@@ -1,0 +1,17 @@
+# Downloads
+downloads/
+*.mp4
+*.mp3
+*.webm
+*.mkv
+*.part
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS
+.DS_Store
+Thumbs.db
